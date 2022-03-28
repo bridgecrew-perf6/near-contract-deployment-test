@@ -1,5 +1,7 @@
 www.patika.dev
 
+Deployed Contract Link : https://explorer.testnet.near.org/transactions/Gu847My9WgvQWSQGbDeJx7Fv612Wy2VqyUW1dYm1pY1a
+
 # `near-sdk-as` Starter Kit
 
 This is a good project to use as a starting point for your AssemblyScript project.
