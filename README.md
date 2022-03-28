@@ -1,5 +1,8 @@
 www.patika.dev
 
+<img width="881" alt="Ekran Resmi 2022-03-29 00 10 40" src="https://user-images.githubusercontent.com/102430083/160487971-5488d524-3fd7-4536-9a67-9f4c10a6be84.png">
+
+
 Deployed Contract Link : https://explorer.testnet.near.org/transactions/Gu847My9WgvQWSQGbDeJx7Fv612Wy2VqyUW1dYm1pY1a
 
 # `near-sdk-as` Starter Kit
